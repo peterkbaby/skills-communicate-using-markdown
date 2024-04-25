@@ -16,5 +16,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var x = 21
 var y =22
 var sum = x + y
-
 ```
+- [x] turn on GitHub page
+- [x] Outline my portfolio
+- [ ] Introduce myself to world
